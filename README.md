@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS, Mongo DB**
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
 - 📫 How to reach me **angelcallejasegura2024@gmail.com**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p align="left">
 </p>
