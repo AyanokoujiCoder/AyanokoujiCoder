@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **angelcallejasegura2024@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/AyanokoujiCoder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyanokoujiCoder&layout=pie)](https://github.com/AyanokoujiCoder)
 
 <p align="left">
 </p>
