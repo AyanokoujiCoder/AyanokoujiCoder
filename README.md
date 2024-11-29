@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Angel Calleja 👋</h1>
 
-![I am GitHub Readme Generator's creator](https://ayanokoujicoder.github.io/Porfolio_website/img/Programming-Hacks.png)
-
 - 👨‍💻 Javascript Fullstack Developer
 - 🎓 I studied at Freecodecamp, Academa X and Udemy, bootcamps for high-level companies with self-taught training.
 - 🌱 I’m currently learning **Python, Linux, AWS, Docker, etc.**
