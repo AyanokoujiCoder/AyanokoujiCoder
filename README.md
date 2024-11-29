@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Angel Calleja 👋</h1>
 
-<img src="https://cdn.pixabay.com/photo/2020/06/11/19/00/programming-5287885_1280.jpg" alt="Image Etical Hacking">
-
 <h3 align="center">I am a passionate fullstack developer</h3>
 
 - 👨‍💻 Javascript Fullstack Developer
@@ -13,6 +11,8 @@
 - 👨‍💻 All of my projects are available at [Portfolio_Website](https://ayanokoujicoder.github.io/Porfolio_website/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS, Mongo DB**
+
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 - 📫 How to reach me **angelcallejasegura2024@gmail.com**
 
