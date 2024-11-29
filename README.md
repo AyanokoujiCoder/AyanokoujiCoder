@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Angel Calleja 👋</h1>
 
-<img src="https://cdn.pixabay.com/photo/2020/06/11/19/00/programming-5287885_960_720.jpg 1x, https://cdn.pixabay.com/photo/2020/06/11/19/00/programming-5287885_1280.jpg 2x" alt="Image Etical Hacking">
+<img src="https://cdn.pixabay.com/photo/2020/06/11/19/00/programming-5287885_1280.jpg" alt="Image Etical Hacking">
 
 <h3 align="center">I am a passionate fullstack developer</h3>
 
