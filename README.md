@@ -3,13 +3,12 @@
 
 - 🌱 I’m currently learning **Python and Linux**
 
-- 👨‍💻 All of my projects are available at [myportfoliowebsite.com](myportfoliowebsite.com)
+- 👨‍💻 All of my projects are available at [My-portfolio-website](https://ayanokoujicoder.github.io/Porfolio_website/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS, Mongo DB**
 
 - 📫 How to reach me **angelcallejasegura2024@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
