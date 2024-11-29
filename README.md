@@ -3,7 +3,7 @@
 
 - 👨‍💻 Javascript Fullstack Developer
 
-- 🎓 I studied at Freecodecamp, Academa X and Udemy, in programming bootcamps for high-level companies with self-taught training.
+- 🎓 I studied at Freecodecamp, Academa X and Udemy, bootcamps for high-level companies with self-taught training.
 
 - 🌱 I’m currently learning **Python, Linux, AWS, Docker, etc.**
 
