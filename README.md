@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Angel Calleja 👋</h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">I am a passionate fullstack developer</h3>
 
 - 👨‍💻 Javascript Fullstack Developer
@@ -13,8 +15,6 @@
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS, Mongo DB**
 
 - 📫 How to reach me **angelcallejasegura2024@gmail.com**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <p align="left">
 </p>
