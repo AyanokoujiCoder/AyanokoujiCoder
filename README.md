@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [myportfoliowebsite.com](myportfoliowebsite.com)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS, Mongo DB**
 
 - 📫 How to reach me **angelcallejasegura2024@gmail.com**
 
