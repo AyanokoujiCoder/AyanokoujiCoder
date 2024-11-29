@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Angel Calleja</h1>
+<h1 align="center">Hi, I'm Angel Calleja 👋</h1>
 <h3 align="center">I am a passionate fullstack developer</h3>
 
-- 🌱 I’m currently learning **Python and Linux**
+- 👨‍💻 Javascript Fullstack Developer
 
-- 👨‍💻 All of my projects are available at [My-portfolio-website](https://ayanokoujicoder.github.io/Porfolio_website/)
+- 🎓 I studied at Freecodecamp, Academa X and Udemy, in programming bootcamps for high-level companies with self-taught training.
+
+- 🌱 I’m currently learning **Python, Linux, AWS, Docker, etc.**
+
+- 👨‍💻 All of my projects are available at [Portfolio_Website](https://ayanokoujicoder.github.io/Porfolio_website/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React JS, Angular JS, , SQL, Node JS, Mongo DB**
 
